@@ -1,0 +1,28 @@
+.about{
+    background-image: url('/images/emilia-about.jpg');
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+.about__main{
+margin-top: 60px;
+}
+.about__titulo{}
+.about__main__section{
+    color: var(--colorVerde);
+}
+.about__main__section{
+    margin-left: 33px;
+}
+.about__main__section__article{
+    margin-top: 40px;
+}
+.about__main__section__article h2{
+    margin-bottom: 20px;
+    
+}
+.about__main__section__article--comentarista{
+    font-size: small;
+}
+
+    
